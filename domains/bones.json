@@ -1,0 +1,11 @@
+{
+  "description": "Boney's portfolio",
+  "repo": "https://github.com/boneycanute",
+  "owner": {
+    "username": "boneycanute",
+    "email": "boneycanute@gmail.com"
+  },
+  "record": {
+    "CNAME": "boneycanute.github.io"
+  }
+}
